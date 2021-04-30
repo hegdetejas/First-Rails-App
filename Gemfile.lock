@@ -32,7 +32,7 @@ GEM
       activerecord (= 6.1.3.1)
       activestorage (= 6.1.3.1)
       activesupport (= 6.1.3.1)
-      nokogiri (>= 1.8)
+      nokogiri (= 1.11.3-x86_64-darwin)
     actionview (6.1.3.1)
       activesupport (= 6.1.3.1)
       builder (~> 3.1)
